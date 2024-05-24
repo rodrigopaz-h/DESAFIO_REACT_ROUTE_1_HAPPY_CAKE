@@ -1,0 +1,15 @@
+.Container-home{
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Container-home picture{
+    margin-top: 3%;
+    display: flex;
+}
+.Container-home picture img{
+    width: 50%;
+    margin: auto;
+}
